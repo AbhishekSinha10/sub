@@ -1,0 +1,10 @@
+body{
+    background-image: url("images/non-academic.png");
+    text-align:center;
+    font-family: cursive;
+}
+
+.txt1{
+    margin-bottom: 100px;
+    margin-top:10px;
+}
